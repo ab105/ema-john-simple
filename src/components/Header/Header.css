@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+}
+.logo{
+    height: 50px;
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    /* line height mane line ke muta kore dibe */
+}
+.header nav a{
+    /* text decoration none kore deway line height chole gese */
+    text-decoration: none;
+    color: wheat;
+    margin-right: 25px;
+    padding: 8px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: rgba(240, 244, 255, 0.658);
+}
